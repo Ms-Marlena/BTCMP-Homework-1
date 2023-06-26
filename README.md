@@ -1,2 +1,2 @@
-# BTCMP-Homework-1
-Homework assignment for bootcamp week 1
+# Website Refactor
+Bootcamp Challenge #1
